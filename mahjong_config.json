@@ -1,0 +1,21 @@
+{
+  "hand_region": {
+    "width": 1178,
+    "height": 171,
+    "x": 320,
+    "y": 867
+  },
+  "player_wind": "北",
+  "table_region": {
+    "width": 775,
+    "height": 561,
+    "x": 569,
+    "y": 211
+  },
+  "exclude_region": {
+    "width": 305,
+    "height": 211,
+    "x": 806,
+    "y": 365
+  }
+}
